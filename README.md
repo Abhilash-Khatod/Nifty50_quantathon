@@ -1,4 +1,4 @@
-# Projects
+# Quantathon
 Objective: Design and implement a sophisticated momentum trading strategy on the top 50 Nifty stocks, surpassing the performance of the Nifty index. Additionally, calculate risk and Sharpe ratio for the strategy on multiple trading days.
 Instructions:
 1. Choose a high-performance programming language (e.g., Python) and utilize advanced libraries like NumPy, pandas, and others for efficient data manipulation and analysis.
